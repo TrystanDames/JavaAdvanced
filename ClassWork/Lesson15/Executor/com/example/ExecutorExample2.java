@@ -9,7 +9,8 @@ import java.util.concurrent.TimeUnit;
 public class ExecutorExample2 {
 
   public static void main(String[] args) {
-    ExecutorService es = Executors.newFixedThreadPool(4);
+    int cpuCount = Runtime.getRuntime().availableProcessors();
+    ExecutorService es = Executors.newFixedThreadPool(cpuCount);
     Future<String> f1 = es.submit(new ExampleCallable("one", 10000));
     Future<String> f2 = es.submit(new ExampleCallable("two", 10000));
 
