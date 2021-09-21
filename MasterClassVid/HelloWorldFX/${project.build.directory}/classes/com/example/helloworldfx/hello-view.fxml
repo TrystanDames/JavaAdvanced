@@ -18,7 +18,7 @@
 <?import javafx.scene.text.Font?>
 <GridPane fx:controller="com.example.helloworldfx.HelloController"
           xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
-    <Label text="Welcom to JavaFx!" textFill="#80493b">
+    <Label text="Welcom to JavaFx!" textFill="red">
         <font>
             <Font name="Times New Roman bold" size="60"/>
         </font>
