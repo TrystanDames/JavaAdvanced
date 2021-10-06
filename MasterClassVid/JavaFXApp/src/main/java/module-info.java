@@ -1,6 +1,7 @@
 module com.example.javafxapp {
     requires javafx.controls;
     requires javafx.fxml;
+    requires javafx.web;
 
 
     opens com.example.javafxapp to javafx.fxml;
