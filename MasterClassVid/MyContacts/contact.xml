@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+	<contact>
+		<first_name>Try</first_name>
+		<last_name>Dam</last_name>
+		<phone_number>5644</phone_number>
+		<notes>try m</notes>
+	</contact>
+	<contact>
+		<first_name>Fred</first_name>
+		<last_name>d</last_name>
+		<phone_number>543</phone_number>
+		<notes>e</notes>
+	</contact>
+</contacts>
