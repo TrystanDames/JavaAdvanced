@@ -4,3 +4,9 @@ ManchesterUnited 3,RealMadrid 4
 Barcelona 4,ManchesterUnited 3
 Liverpool 2,Barcelona 3
 RealMadrid 5,Liverpool 6
+Liverpool 4,ManchesterUnited 3
+Barcelona 3,RealMadrid 0
+ManchesterUnited 2,RealMadrid 1
+Barcelona 4,ManchesterUnited 3
+Liverpool 3,Barcelona 3
+RealMadrid 4,Liverpool 3
